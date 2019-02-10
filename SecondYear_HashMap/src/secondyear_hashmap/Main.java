@@ -7,7 +7,7 @@ package secondyear_hashmap;
 
 /**
  *
- * @author jit
+ * @author Abdullah Shublaq
  */
 public class Main {
 
